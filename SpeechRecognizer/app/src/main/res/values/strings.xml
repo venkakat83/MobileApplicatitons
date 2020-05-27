@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechRecognizer</string>
+    <string name="voice">Voice Command</string>
+</resources>
